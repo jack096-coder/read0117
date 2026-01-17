@@ -1,8 +1,6 @@
-openpyxl
-streamlit==1.29.0
-streamlit-drawable-canvas==0.9.3
-opencv-python-headless
+streamlit
+opencv-python
 numpy
 pandas
-Pillow
 openpyxl
+Pillow
